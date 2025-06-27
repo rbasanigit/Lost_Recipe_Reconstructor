@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+faiss-cpu
+huggingface-hub
+sentence-transformers
+tiktoken
+transformers
+torch
+accelerate
